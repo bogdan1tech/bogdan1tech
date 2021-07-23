@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bogdan1tech
-- 👀 I’m interested in ... ai, rpa, robots
+- 👀 I’m interested in ... ai, rpa, robotics
 - 🌱 I’m currently learning ... mastert exam 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
